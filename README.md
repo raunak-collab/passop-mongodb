@@ -15,18 +15,14 @@ JavaScript/TypeScript (if applicable): Programming languages used in the project
 Installation:
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/yourusername/passop-mongodb.git
 Install dependencies:
 
-bash
-Copy code
+
 npm install
 Start the project:
 
-bash
-Copy code
 npm start
 Usage:
 Set up your MongoDB database connection in the .env file.
